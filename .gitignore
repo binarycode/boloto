@@ -1,0 +1,4 @@
+bin/*.ld
+bin/*.elf
+src/*.d
+src/*.o
